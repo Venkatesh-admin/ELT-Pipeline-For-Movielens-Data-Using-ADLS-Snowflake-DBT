@@ -1,6 +1,6 @@
-````markdown
-# Welcome to Netflix ELT Pipeline using Azure Storage, Snowflake, and dbt
-```
+
+### Welcome to Netflix ELT Pipeline using Azure Storage, Snowflake, and dbt
+
 This project demonstrates an end-to-end ELT (Extract, Load, Transform) pipeline using Azure Storage for raw data ingestion, Snowflake as the cloud data warehouse, and dbt for data transformations and data modeling.
 
 
@@ -8,7 +8,6 @@ This project demonstrates an end-to-end ELT (Extract, Load, Transform) pipeline 
 
 - For datasets, please visit [MovieLens](https://grouplens.org/datasets/movielens/20m/)
 
----
 
 ### 🏗️ Architecture Diagram
 
@@ -16,10 +15,6 @@ Below is the high-level architecture of the pipeline:
 
 ![Architecture Diagram](./assets/architecture.png)
 
-> **Note**: Replace the above path with your actual diagram location inside the repo (`/assets/architecture-diagram.png`).  
-> If you want a hand-drawn style or tool recommendation, I can help generate or suggest one.
-
----
 
 ### ⚙️ Key dbt Commands
 
