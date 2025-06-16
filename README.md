@@ -16,8 +16,9 @@ Below is the high-level architecture of the pipeline:
 ![Architecture Diagram](./assets/architecture.png)
 
 
-### ⚙️ Key Snowflake queries to setup datawarehouse,role,user,database,schema,tables and copy the data
-Please find them in snowflake folder
+### ⚙️ Snowflake 
+
+Queries to setup datawarehouse,role,user,database,schema,tables and copy the data from Azure storage[Snowflake](https://github.com/Venkatesh-admin/ELT-Pipeline-For-Movielens-Data-Using-ADLS-Snowflake-DBT/tree/master/snowflake)
 
 ### ⚙️ Key dbt Commands
 
