@@ -1,13 +1,8 @@
-Here's a revised `README.md` content that includes your intro, the architecture diagram placeholder, and commonly used dbt commands for building models, generating documentation, running tests, and performing analysis:
-
----
-
 ````markdown
 # Welcome to Netflix ELT Pipeline using Azure Storage, Snowflake, and dbt
-
+```
 This project demonstrates an end-to-end ELT (Extract, Load, Transform) pipeline using Azure Storage for raw data ingestion, Snowflake as the cloud data warehouse, and dbt for data transformations and data modeling.
 
----
 
 ### 🗂️ Resources
 
