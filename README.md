@@ -16,6 +16,9 @@ Below is the high-level architecture of the pipeline:
 ![Architecture Diagram](./assets/architecture.png)
 
 
+### ⚙️ Key Snowflake queries to setup datawarehouse,role,user,database,schema,tables and copy the data
+Please find them in snowflake folder
+
 ### ⚙️ Key dbt Commands
 
 Run these commands from your dbt project root folder:
